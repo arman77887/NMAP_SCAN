@@ -1,6 +1,6 @@
 # 🔍 NMAP SCAN - Ultimate Network Scanner
 
-<div align="center">
+৳<div align="center">
 
 **Fixed Ultimate Scanner with DNS & UDP Issues Resolved**  
 *Android, iPhone, Windows, Linux, macOS - সকল ডিভাইসে ব্যবহারযোগ্য*
@@ -24,7 +24,11 @@ pkg install python git nmap
 git clone https://github.com/arman77887/NMAP_SCAN.git
 cd NMAP_SCAN
 python nmap_scanner.py
-</td> <td width="50%">
+</td>
+
+<table>
+<tr>
+<td width="50%">
 
 #🍎 iPhone/iOS (iSH)
 apk update
@@ -32,7 +36,9 @@ apk add python3 git nmap
 git clone https://github.com/arman77887/NMAP_SCAN.git
 cd NMAP_SCAN
 python3 nmap_scanner.py
-</td> </tr> <tr> <td>
+</td> </tr> </table>
+
+ <tr> <td>
 #🪟 Windows
 # 1. Python (python.org)
 # 2. Nmap (nmap.org)
