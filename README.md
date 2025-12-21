@@ -18,7 +18,7 @@ pkg update && pkg upgrade
 pkg install python git nmap
 git clone https://github.com/arman77887/NMAP_SCAN.git
 cd NMAP_SCAN
-python nmap_scanner.py
+python nmapscan.py
 
 
 🍎 iPhone (iSH)
@@ -26,7 +26,7 @@ apk update
 apk add python3 git nmap
 git clone https://github.com/arman77887/NMAP_SCAN.git
 cd NMAP_SCAN
-python3 nmap_scanner.py
+python3 nmapscan.py
 
  
 #🪟 Windows
@@ -35,8 +35,7 @@ python3 nmap_scanner.py
 
 git clone https://github.com/arman77887/NMAP_SCAN.git
 cd NMAP_SCAN
-python nmap_scanner.py
-
+python nmapscan.py
 
 ## **🐧 Linux/macOS**
 # Ubuntu: sudo apt install nmap python3
@@ -44,7 +43,7 @@ python nmap_scanner.py
 
 git clone https://github.com/arman77887/NMAP_SCAN.git
 cd NMAP_SCAN
-python3 nmap_scanner.py
+python3 nmapscan.py
 
 ✅ ফিক্সড সমস্যা
 
